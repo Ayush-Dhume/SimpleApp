@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_home"
+        android:icon="@drawable/homeicon"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/tab_shortlisted"
+        android:icon="@drawable/shortlistedicon"
+        android:title="Shortlisted"/>
+
+    <item
+        android:id="@+id/tab_notifications"
+        android:icon="@drawable/notificationicon"
+        android:title="Notifications"/>
+
+    <item
+        android:id="@+id/tab_profile"
+        android:icon="@drawable/profileicon"
+        android:title="Profile"/>
+
+</menu>

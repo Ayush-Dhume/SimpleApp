@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecureEstate</string>
+    <string name="signUp">Register</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="we_client_id">692310704714-bc7qsdinqilc3fu3omgiark6vqotokj3.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
